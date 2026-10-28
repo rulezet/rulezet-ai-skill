@@ -61,10 +61,13 @@ These are the ones that cause real bugs or security holes when forgotten — fol
 
 ## Where to look next
 
-Open only what the task needs:
+`references/project-rules.md` holds the **official project rules** of rulezet-core, word for word:
+read it before a non-trivial change — it is the authority when anything here disagrees with it.
+For the rest, open only what the task needs:
 
 | Task | Read |
 |---|---|
+| The official, complete project rules | `references/project-rules.md` |
 | Understand the layout, models, features, jobs, API, connectors | `references/architecture.md` |
 | A page, a template, a Vue component, CSS, the UI patterns | `references/frontend.md` |
 | Who may do what, guards in Python / Jinja / Vue | `references/permissions.md` |

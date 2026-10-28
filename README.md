@@ -29,6 +29,7 @@ checkout). For a web assistant, zip `rulezet-dev/` and upload it in its skills s
 rulezet-dev/
 ├── SKILL.md                  the essentials + where to look next
 └── references/
+    ├── project-rules.md      the official project rules of rulezet-core (authoritative)
     ├── architecture.md       layout, features, rules, kits, API, jobs, connectors, first start
     ├── frontend.md           templates, Vue UMD, page layout, CSS vars, shared components, RuleList
     ├── permissions.md        roles, owner/admin guards in Python, Jinja and Vue
