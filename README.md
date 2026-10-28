@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/logo/rulezet-ai-skill.svg" width="360" alt="Rulezet AI Skill">
+</p>
+
 # Rulezet AI skill
 
 An AI agent skill that teaches a coding assistant how to develop on
