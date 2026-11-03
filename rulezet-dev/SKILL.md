@@ -74,6 +74,7 @@ For the rest, open only what the task needs:
 | A list, label or text that admins may change | `references/settings.md` |
 | Writing or fixing tests | `references/testing.md` |
 | The rule editor / tester submodules, YARA editor | `references/editor-tester.md` |
+| Adding a rule format to the editor (as YARA / Sigma) | the separate skill `rulezet-editor-format` |
 | The Tutorial (tour) on a page, `data-tour` anchors | `references/tutorial.md` |
 | Commits, branches, migrations, releases | `references/workflow.md` |
 | Naming and the target code conventions | `references/conventions.md` |

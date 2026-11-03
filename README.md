@@ -39,7 +39,13 @@ rulezet-dev/
     ├── tutorial.md           the guided tour and data-tour anchors
     ├── workflow.md           commits, branches, migrations, running, CI
     └── conventions.md        naming and layering
+rulezet-editor-format/
+└── SKILL.md                  adding a rule format to rulezet-editor and Rulezet, step by step
+                              (pack, oracle, Fields form, tests on samples, external checks, settings, docs)
 ```
+
+`rulezet-editor-format` is a skill of its own: copy it next to `rulezet-dev` (same way). It holds every
+step done for YARA and Sigma, so a new format (Suricata, Zeek, Wazuh…) gets the same features.
 
 Keep it in step with the project instructions of rulezet-core: when a rule changes there, change it
 here.
